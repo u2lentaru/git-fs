@@ -1,2 +1,2 @@
-Hello world!!!
-Print("master HW!")
+Hello world!!!;
+Print("master HW!");
