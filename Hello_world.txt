@@ -1,4 +1,5 @@
-Hello world!!!
-Print("master HW!")
-Print("Hello advanced!")
-Print("GTS adv")
+<<<<<<< HEAD
+Hello world!!!;
+Print("master HW!");
+Print("Hello advanced!");
+Print("GTS adv");
